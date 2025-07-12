@@ -1,0 +1,14 @@
+{
+  "name": "hesabgar",
+  "version": "1.0.0",
+  "description": "Collect the spending and calculate who and how mych people owe eachother",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
